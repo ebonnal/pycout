@@ -1,5 +1,5 @@
 # Pycout
-
+[![Actions Status](https://github.com/enzobnl/pycout/workflows/test/badge.svg)](https://github.com/enzobnl/pycout/actions)
 
 ## Install
 `pip install pycout`
