@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='pycout',
-    version='0.1.2',
+    version='0.1.3',
     packages=['pycout'],
     package_data={'scimple/scimple_data': ['*']},
     url='http://github.com/EnzoBnl/pycout',
