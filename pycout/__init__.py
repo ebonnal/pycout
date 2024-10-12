@@ -1,1 +1,1 @@
-from .cout import cout, endl, Cout
+from pycout.cout import cout, endl

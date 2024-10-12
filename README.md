@@ -1,16 +1,13 @@
-# Pycout
-[![Actions Status](https://github.com/enzobnl/pycout/workflows/test/badge.svg)](https://github.com/enzobnl/pycout/actions) [![Actions Status](https://github.com/enzobnl/pycout/workflows/PyPI/badge.svg)](https://github.com/enzobnl/pycout/actions)
+# PyCout
+> C++'s `cout << "Hello" << " World!" << endl;` in Python
 
-## Install
-`pip install pycout` (or `pip install git+https://github.com/enzobnl/pycout.git`)
-## Usage
-This
+[![Actions Status](https://github.com/ebonnal/pycout/workflows/unittest/badge.svg)](https://github.com/ebonnal/pycout/actions)
+[![Actions Status](https://github.com/ebonnal/pycout/workflows/PyPI/badge.svg)](https://github.com/ebonnal/pycout/actions)
+
+`pip install pycout`
+
 ```python
 from pycout import *
 
-cout << "Sending " << 1000 << " hellos to the world !" << endl;
-```
-is
-```
-Sending 1000 hellos to the world !
+cout << "Sending a " << 1000 << " hellos world!" << endl;
 ```
