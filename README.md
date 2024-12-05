@@ -9,5 +9,5 @@
 ```python
 from pycout import *
 
-cout << "Sending a " << 1000 << " hellos world!" << endl;
+cout << "Sending a " << 1000 << " hellos to the world!" << endl;
 ```
